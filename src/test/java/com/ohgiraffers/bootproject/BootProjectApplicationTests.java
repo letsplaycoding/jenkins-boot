@@ -8,6 +8,6 @@ class BootProjectApplicationTests {
 
     @Test
     void contextLoads() {
+        테스트 코드 잘못 작성 테스트
     }
-// 테스트 주석+
 }
